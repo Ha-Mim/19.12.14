@@ -1,0 +1,6 @@
+E:\ASP.Net\Projects\19-12-14\ListWithSudent_App\ListWithSudent_App\bin\Debug\ListWithSudent_App.exe.config
+E:\ASP.Net\Projects\19-12-14\ListWithSudent_App\ListWithSudent_App\bin\Debug\ListWithSudent_App.exe
+E:\ASP.Net\Projects\19-12-14\ListWithSudent_App\ListWithSudent_App\bin\Debug\ListWithSudent_App.pdb
+E:\ASP.Net\Projects\19-12-14\ListWithSudent_App\ListWithSudent_App\obj\Debug\ListWithSudent_App.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\19-12-14\ListWithSudent_App\ListWithSudent_App\obj\Debug\ListWithSudent_App.exe
+E:\ASP.Net\Projects\19-12-14\ListWithSudent_App\ListWithSudent_App\obj\Debug\ListWithSudent_App.pdb

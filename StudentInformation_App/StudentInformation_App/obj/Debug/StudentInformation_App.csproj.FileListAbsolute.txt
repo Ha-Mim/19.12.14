@@ -1,0 +1,9 @@
+E:\ASP.Net\Projects\19-12-14\StudentInformation_App\StudentInformation_App\bin\Debug\StudentInformation_App.exe.config
+E:\ASP.Net\Projects\19-12-14\StudentInformation_App\StudentInformation_App\bin\Debug\StudentInformation_App.exe
+E:\ASP.Net\Projects\19-12-14\StudentInformation_App\StudentInformation_App\bin\Debug\StudentInformation_App.pdb
+E:\ASP.Net\Projects\19-12-14\StudentInformation_App\StudentInformation_App\obj\Debug\StudentInformation_App.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\19-12-14\StudentInformation_App\StudentInformation_App\obj\Debug\StudentInformation_App.Form1.resources
+E:\ASP.Net\Projects\19-12-14\StudentInformation_App\StudentInformation_App\obj\Debug\StudentInformation_App.Properties.Resources.resources
+E:\ASP.Net\Projects\19-12-14\StudentInformation_App\StudentInformation_App\obj\Debug\StudentInformation_App.csproj.GenerateResource.Cache
+E:\ASP.Net\Projects\19-12-14\StudentInformation_App\StudentInformation_App\obj\Debug\StudentInformation_App.exe
+E:\ASP.Net\Projects\19-12-14\StudentInformation_App\StudentInformation_App\obj\Debug\StudentInformation_App.pdb

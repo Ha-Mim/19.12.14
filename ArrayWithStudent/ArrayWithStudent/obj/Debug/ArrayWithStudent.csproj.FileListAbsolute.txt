@@ -1,0 +1,6 @@
+E:\ASP.Net\Projects\19-12-14\ArrayWithStudent\ArrayWithStudent\bin\Debug\ArrayWithStudent.exe.config
+E:\ASP.Net\Projects\19-12-14\ArrayWithStudent\ArrayWithStudent\bin\Debug\ArrayWithStudent.exe
+E:\ASP.Net\Projects\19-12-14\ArrayWithStudent\ArrayWithStudent\bin\Debug\ArrayWithStudent.pdb
+E:\ASP.Net\Projects\19-12-14\ArrayWithStudent\ArrayWithStudent\obj\Debug\ArrayWithStudent.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\19-12-14\ArrayWithStudent\ArrayWithStudent\obj\Debug\ArrayWithStudent.exe
+E:\ASP.Net\Projects\19-12-14\ArrayWithStudent\ArrayWithStudent\obj\Debug\ArrayWithStudent.pdb

@@ -1,0 +1,9 @@
+E:\ASP.Net\Projects\19-12-14\QueueOfCustomerComplain_App\QueueOfCustomerComplain_App\bin\Debug\QueueOfCustomerComplain_App.exe.config
+E:\ASP.Net\Projects\19-12-14\QueueOfCustomerComplain_App\QueueOfCustomerComplain_App\bin\Debug\QueueOfCustomerComplain_App.exe
+E:\ASP.Net\Projects\19-12-14\QueueOfCustomerComplain_App\QueueOfCustomerComplain_App\bin\Debug\QueueOfCustomerComplain_App.pdb
+E:\ASP.Net\Projects\19-12-14\QueueOfCustomerComplain_App\QueueOfCustomerComplain_App\obj\Debug\QueueOfCustomerComplain_App.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\19-12-14\QueueOfCustomerComplain_App\QueueOfCustomerComplain_App\obj\Debug\QueueOfCustomerComplain_App.Form1.resources
+E:\ASP.Net\Projects\19-12-14\QueueOfCustomerComplain_App\QueueOfCustomerComplain_App\obj\Debug\QueueOfCustomerComplain_App.Properties.Resources.resources
+E:\ASP.Net\Projects\19-12-14\QueueOfCustomerComplain_App\QueueOfCustomerComplain_App\obj\Debug\QueueOfCustomerComplain_App.csproj.GenerateResource.Cache
+E:\ASP.Net\Projects\19-12-14\QueueOfCustomerComplain_App\QueueOfCustomerComplain_App\obj\Debug\QueueOfCustomerComplain_App.exe
+E:\ASP.Net\Projects\19-12-14\QueueOfCustomerComplain_App\QueueOfCustomerComplain_App\obj\Debug\QueueOfCustomerComplain_App.pdb
